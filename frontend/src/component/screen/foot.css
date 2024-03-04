@@ -1,0 +1,22 @@
+footer{
+    width: 100%;
+    background-color: #1e272e;
+    color: #fff;
+    font-size: 1.5rem;
+   text-align: center;
+   padding: 5px 2px;
+   margin-top: auto;
+
+   text-transform: capitalize;
+ 
+ /* position: absolute;
+bottom: 1px; */
+ 
+}
+footer span{
+    color: rgb(241, 70, 70);
+}
+footer p:hover{
+    color: #0097e6;
+    
+    }

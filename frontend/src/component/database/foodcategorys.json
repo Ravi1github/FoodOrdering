@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6432a7b377294d7fbafb4f12"
+  },
+  "CategoryName": "Biryani/Rice"
+},{
+  "_id": {
+    "$oid": "6432a7b377294d7fbafb4f13"
+  },
+  "CategoryName": "Starter"
+},{
+  "_id": {
+    "$oid": "6432a7b377294d7fbafb4f14"
+  },
+  "CategoryName": "Pizza"
+}]
